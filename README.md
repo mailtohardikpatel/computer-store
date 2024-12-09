@@ -1,7 +1,7 @@
 # computer-store
 Computer store console application
 
-## Setup the app
+## Setup and run the app
 
 Clone the repo and run:
 
